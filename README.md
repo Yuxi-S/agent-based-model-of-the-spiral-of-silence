@@ -1,3 +1,2 @@
-# agent-based-model-of-the-spiral-of-silence
-Question:
-(1).
+Simulations of the Spiral of Silence
+(1). Question
