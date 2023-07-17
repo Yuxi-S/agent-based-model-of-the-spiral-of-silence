@@ -1,10 +1,6 @@
-+++
-date = "2022-07-25"
-title = "Agent-based Modeling of Simulations of the Spiral of Silence"
-description = "The post demonstrates Mermaid JS support"
-+++
 
-This blog contains main content of my project. You can find it on my [Github](https://github.com/shen-yuxi/Simulations-of-the-Spiral-of-Silence) as well. Feel free to reach out to me for the full paper.
+
+This repo contains main content of my project. You can find it on my [blog](https://yx-sh.github.io/projects/simulations-of-the-spiral-of-silence/) as well. Feel free to reach out to me for the full paper.
 
 
 
